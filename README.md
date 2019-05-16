@@ -1,5 +1,7 @@
 # NgsxDemo
 
+Demonstrates the basic use of a counter using NGSX.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
